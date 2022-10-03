@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600750502119",
+    "project_id": "deep-dive-adb72",
+    "storage_bucket": "deep-dive-adb72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600750502119:android:045389e4bf8798f61a3242",
+        "android_client_info": {
+          "package_name": "com.example.dive_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600750502119-3a452fn71tr3409krh1dkh10hi4tssso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYB0Mxngrvi7421gRhlI6AdPeqYP9aNsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600750502119-3a452fn71tr3409krh1dkh10hi4tssso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
